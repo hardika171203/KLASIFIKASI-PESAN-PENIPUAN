@@ -23,5 +23,5 @@ Untuk menggunakan sistem ini, Anda dapat mengikuti langkah-langkah berikut:
 1. Unduh kode program dari repositori ini.
 2. Pasang library yang dibutuhkan.
 3. Jalankan program.
-4. link website https://sistem-deteksi-pesan-penipuan.streamlit.app/
+4. link website https://deteksi-pesan-penipuan.streamlit.app/
 
